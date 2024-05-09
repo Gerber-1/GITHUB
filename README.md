@@ -3,10 +3,10 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
 
-Página inicial de cobertura.
-Uma página de destino simples e limpa construída usando HTML e CSS. Esta página consiste em um cabeçalho com links de navegação, uma seção principal com uma imagem e texto e um botão para saber mais. O design é responsivo e segue um esquema de cores simples
+Clone de página de entrada do GitHub
+Este é um clone da página de entrada do GitHub, criada usando HTML, CSS e nenhum JavaScript. É uma página simples e responsiva que se assemelha à página de entrada original do GitHub.
 
-https://passeioediversao.netlify.app
+https://pagegithubclone.netlify.app
 
 ## Layout web
 ![Web 1](https://github.com/Gerber-1/GITHUB/blob/main/assests/github-mark-white.png)
@@ -21,13 +21,23 @@ https://passeioediversao.netlify.app
 
 # Projeto
 
+## Características
+
+Design responsivo que se ajusta a diferentes tamanhos de tela
+
+Animações CSS para uma experiência de usuário suave
+
+Validação de formulário usando pseudoclasses CSS
+
+Considerações de acessibilidade, como contraste de cores adequado e navegação pelo teclado
+
 ## Uso
 
-Faça o download dos arquivos HTML e CSS.
+Para usar esse código, basta copiar e colar o HTML e CSS em seus respectivos arquivos e abrir o arquivo HTML em um navegador da web.
 
-## Abrir
+## Personalização
 
-Edite os arquivos HTML e CSS para personalizar a página de destino.
+Você pode personalizar a página modificando os estilos CSS. As cores, fontes e layout podem ser alterados para atender às suas necessidades.
 
 # Autor
 
